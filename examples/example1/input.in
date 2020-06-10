@@ -1,0 +1,9 @@
+# The template pwscf file
+pwscf_template file=alfcc.in
+settings ecutwfc=25 ecutrho=100 kpoints='3 3 3 1 1 1' kpointstype='automatic' degauss=0.04 
+
+config structure=fcc size=1 alat=4.04 alat_units=ang
+
+ec run=false points=6 strain=0.004
+eos run=true points=7 strain=0.003
+

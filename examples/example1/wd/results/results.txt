@@ -1,0 +1,33 @@
+################################################################
+#                        RESULTS                               #
+################################################################
+Wed, 10 Jun 2020 19:17:21 +0000
+
+INPUT SETTINGS
+
+Structure:                    fcc
+Size:                         1
+Alat:                         4.04
+Alat Units:                   ang
+Alat/Bohr:                    7.6356
+
+Ecutwfc:                      25
+Ecutrho:                      100
+Degauss:                      0.04
+Kpoints:                      3 3 3 1 1 1
+Kpoints Type:                 automatic
+EOS Points:                   7
+EOS Strain:                   0.003
+EC Points:                    6
+EC Strain:                    0.004
+
+
+EOS
+
+V0 (Bohr^3):                  111.583890525
+E0:                           -39.511952236
+B0 (RY/BOHR3):                0.00394498516619
+B0 (GPA):                     58.0327042873
+B0P:                          4.75789234388
+
+

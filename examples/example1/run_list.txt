@@ -1,0 +1,84 @@
+File Name:                      eos_001
+Path:                           wd/eos
+File In:                        wd/eos/eos_001.in
+File Out:                       wd/eos/eos_001.out
+Hash:                           e0509601232a153e66b3fbfa8400db5e130290e656963f88068ef5b80431b220765a3bf4cc14aacd7fa21a9445dbeeaaf7b50937c514230c755b1f05838fd2df
+Use Cache?:                     True
+Cache Used:                     True
+Cache In:                       /opt/pwscf_cache/e0509601232a153e66b3fbfa8400db5e130290e656963f88068ef5b80431b220765a3bf4cc14aacd7fa21a9445dbeeaaf7b50937c514230c755b1f05838fd2df.in
+Cache Out:                      /opt/pwscf_cache/e0509601232a153e66b3fbfa8400db5e130290e656963f88068ef5b80431b220765a3bf4cc14aacd7fa21a9445dbeeaaf7b50937c514230c755b1f05838fd2df.out
+CMD:                            mpirun -n 1 /opt/qe/bin/pw.x -i wd/eos/eos_001.in > wd/eos/eos_001.out
+
+
+File Name:                      eos_002
+Path:                           wd/eos
+File In:                        wd/eos/eos_002.in
+File Out:                       wd/eos/eos_002.out
+Hash:                           2e7a73761981fc5fa1eec0f1e9ac54fc7ae7839acb4dc08d16840c3a92ebff10000158d1643cc9fe46c5b6433192b4679013814830ac7de1065cc0deeda43c56
+Use Cache?:                     True
+Cache Used:                     True
+Cache In:                       /opt/pwscf_cache/2e7a73761981fc5fa1eec0f1e9ac54fc7ae7839acb4dc08d16840c3a92ebff10000158d1643cc9fe46c5b6433192b4679013814830ac7de1065cc0deeda43c56.in
+Cache Out:                      /opt/pwscf_cache/2e7a73761981fc5fa1eec0f1e9ac54fc7ae7839acb4dc08d16840c3a92ebff10000158d1643cc9fe46c5b6433192b4679013814830ac7de1065cc0deeda43c56.out
+CMD:                            mpirun -n 1 /opt/qe/bin/pw.x -i wd/eos/eos_002.in > wd/eos/eos_002.out
+
+
+File Name:                      eos_003
+Path:                           wd/eos
+File In:                        wd/eos/eos_003.in
+File Out:                       wd/eos/eos_003.out
+Hash:                           3e1f609299e80599ffcdaac77e61c1100cd86b1dffe20d8acd5abadd1cd4b5da591eaef3e27346e6417c8bfe3d7c5ed62e2747e3da8dcc41af9990db1a365dd0
+Use Cache?:                     True
+Cache Used:                     True
+Cache In:                       /opt/pwscf_cache/3e1f609299e80599ffcdaac77e61c1100cd86b1dffe20d8acd5abadd1cd4b5da591eaef3e27346e6417c8bfe3d7c5ed62e2747e3da8dcc41af9990db1a365dd0.in
+Cache Out:                      /opt/pwscf_cache/3e1f609299e80599ffcdaac77e61c1100cd86b1dffe20d8acd5abadd1cd4b5da591eaef3e27346e6417c8bfe3d7c5ed62e2747e3da8dcc41af9990db1a365dd0.out
+CMD:                            mpirun -n 1 /opt/qe/bin/pw.x -i wd/eos/eos_003.in > wd/eos/eos_003.out
+
+
+File Name:                      eos_004
+Path:                           wd/eos
+File In:                        wd/eos/eos_004.in
+File Out:                       wd/eos/eos_004.out
+Hash:                           d994f4957391507125e325a46d8657802cbf0b5166dc988511f13ce3d4d868a68bfb7d4b74ca209a53d89055810940e12b0deb087d0b0f15c00efcecc713f02f
+Use Cache?:                     True
+Cache Used:                     True
+Cache In:                       /opt/pwscf_cache/d994f4957391507125e325a46d8657802cbf0b5166dc988511f13ce3d4d868a68bfb7d4b74ca209a53d89055810940e12b0deb087d0b0f15c00efcecc713f02f.in
+Cache Out:                      /opt/pwscf_cache/d994f4957391507125e325a46d8657802cbf0b5166dc988511f13ce3d4d868a68bfb7d4b74ca209a53d89055810940e12b0deb087d0b0f15c00efcecc713f02f.out
+CMD:                            mpirun -n 1 /opt/qe/bin/pw.x -i wd/eos/eos_004.in > wd/eos/eos_004.out
+
+
+File Name:                      eos_005
+Path:                           wd/eos
+File In:                        wd/eos/eos_005.in
+File Out:                       wd/eos/eos_005.out
+Hash:                           fe2b129ccce8928949e093b8eabe4adecbb5c4c0c15c6767de420440c338e5158a4a63deae3896cddbf1385374582d8a31279faf670801e21e6103ea88800d1f
+Use Cache?:                     True
+Cache Used:                     True
+Cache In:                       /opt/pwscf_cache/fe2b129ccce8928949e093b8eabe4adecbb5c4c0c15c6767de420440c338e5158a4a63deae3896cddbf1385374582d8a31279faf670801e21e6103ea88800d1f.in
+Cache Out:                      /opt/pwscf_cache/fe2b129ccce8928949e093b8eabe4adecbb5c4c0c15c6767de420440c338e5158a4a63deae3896cddbf1385374582d8a31279faf670801e21e6103ea88800d1f.out
+CMD:                            mpirun -n 1 /opt/qe/bin/pw.x -i wd/eos/eos_005.in > wd/eos/eos_005.out
+
+
+File Name:                      eos_006
+Path:                           wd/eos
+File In:                        wd/eos/eos_006.in
+File Out:                       wd/eos/eos_006.out
+Hash:                           9f128f36f438110953731dfa1f0a8541d0c6bfdc6f78f0fb62a8f0f0dd6c2981f7ce889b252f6f2528ff0e5b65a7e50f2c8bb3bd4fef574b15c04d230b97daeb
+Use Cache?:                     True
+Cache Used:                     True
+Cache In:                       /opt/pwscf_cache/9f128f36f438110953731dfa1f0a8541d0c6bfdc6f78f0fb62a8f0f0dd6c2981f7ce889b252f6f2528ff0e5b65a7e50f2c8bb3bd4fef574b15c04d230b97daeb.in
+Cache Out:                      /opt/pwscf_cache/9f128f36f438110953731dfa1f0a8541d0c6bfdc6f78f0fb62a8f0f0dd6c2981f7ce889b252f6f2528ff0e5b65a7e50f2c8bb3bd4fef574b15c04d230b97daeb.out
+CMD:                            mpirun -n 1 /opt/qe/bin/pw.x -i wd/eos/eos_006.in > wd/eos/eos_006.out
+
+
+File Name:                      eos_007
+Path:                           wd/eos
+File In:                        wd/eos/eos_007.in
+File Out:                       wd/eos/eos_007.out
+Hash:                           231faf042f49f46f18368d469656a98db160def089daff3b4c5cc0966e043dcdbb2669a511718eb7dd4aeda266a1929f3cce032297927f034def7e91b722dee7
+Use Cache?:                     True
+Cache Used:                     True
+Cache In:                       /opt/pwscf_cache/231faf042f49f46f18368d469656a98db160def089daff3b4c5cc0966e043dcdbb2669a511718eb7dd4aeda266a1929f3cce032297927f034def7e91b722dee7.in
+Cache Out:                      /opt/pwscf_cache/231faf042f49f46f18368d469656a98db160def089daff3b4c5cc0966e043dcdbb2669a511718eb7dd4aeda266a1929f3cce032297927f034def7e91b722dee7.out
+CMD:                            mpirun -n 1 /opt/qe/bin/pw.x -i wd/eos/eos_007.in > wd/eos/eos_007.out
+
+

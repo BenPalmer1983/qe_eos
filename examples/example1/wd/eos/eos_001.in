@@ -1,0 +1,55 @@
+! Edited 20:17   10/6/2020
+&CONTROL 
+calculation = "scf", 
+disk_io = 'low', 
+etot_conv_thr = 1.0E-4, 
+forc_conv_thr = 1.0D-3, 
+nstep = 40, 
+outdir = "/opt/scratch", 
+prefix = "AvGeeQlhRvRufHwO", 
+pseudo_dir = "/opt/pp", 
+restart_mode = 'from_scratch', 
+tprnfor = .true., 
+tstress = .true., 
+/ 
+&SYSTEM 
+celldm(1) = 7.6302245376, 
+degauss = 0.04, 
+ecutrho = 100, 
+ecutwfc = 25, 
+ibrav = 0, 
+nat = 4, 
+nspin = 1, 
+ntyp = 1, 
+occupations = 'smearing', 
+smearing = 'mv', 
+starting_magnetization(1) = 0, 
+/ 
+&ELECTRONS 
+conv_thr = 1.0D-6, 
+diagonalization = 'david', 
+mixing_beta = 1.0000000E-01, 
+mixing_mode = 'TF', 
+mixing_ndim = 10, 
+/ 
+&IONS 
+ion_dynamics = 'bfgs', 
+/ 
+&CELL 
+cell_dynamics = 'bfgs', 
+cell_factor = 2.0, 
+press = 0.0, 
+/ 
+ATOMIC_SPECIES 
+Al 26.982 Al.pbe-nl-kjpaw_psl.1.0.0.UPF 
+ATOMIC_POSITIONS crystal
+Al   0.0   0.0   0.0   
+Al   0.5   0.5   0.0   
+Al   0.5   0.0   0.5   
+Al   0.0   0.5   0.5   
+K_POINTS automatic
+3 3 3 1 1 1  
+CELL_PARAMETERS alat
+0.997 0.0 0.0 
+0.0 0.997 0.0 
+0.0 0.0 0.997
